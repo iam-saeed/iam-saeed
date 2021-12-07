@@ -1,10 +1,10 @@
 Hi there 👋
 
-🔭 I’m currently working on Story Squad! An application that springs story tellers into action by parterning them up in creative challenges.
+🔭  I’m currently working on Story Squad! 
 
-🌱 I’m currently learning iOS Development!
+🌱  I’m currently learning iOS Development!
 
-👯 I’m looking to collaborate on open source projects.
+👯  I’m looking to collaborate on open source projects.
 
 🤔 I’m looking for help with my job search.
 
