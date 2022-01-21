@@ -1,6 +1,6 @@
 Hi there 👋
 
-🔭  I’m currently working on Story Squad! 
+🔭  I’m currently working on a case management system for Family Promise of Spokane, WA! 
 
 🌱  I’m currently learning iOS Development!
 
