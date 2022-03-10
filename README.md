@@ -1,8 +1,8 @@
 Hi there 👋
 
-🔭  I’m currently working on a case management system for Family Promise of Spokane, WA! 
+🔭  I’m currently working at JPMorgan Chase & Co! 
 
-🌱  I’m currently learning iOS Development!
+🌱  I’m currently learning Java!
 
 👯  I’m looking to collaborate on open source projects.
 
