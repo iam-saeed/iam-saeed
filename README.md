@@ -2,7 +2,7 @@ Hi there 👋
 
 🔭  I’m currently working at JPMorgan Chase & Co! 
 
-🌱  I’m currently learning Java!
+🌱  I’m currently learning Machine Learning!
 
 👯  I’m looking to collaborate on open source projects.
 
