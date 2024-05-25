@@ -2,11 +2,11 @@ Hi there 👋
 
 🔭  I’m currently working at JPMorgan Chase & Co! 
 
-🌱  I’m currently learning machine learning!
+🌱  I enjoy learning new technolgies and using them to solve complex problems!
 
-👯  I’m looking to collaborate on open source projects.
+🏗️  I love building apps for fun.
 
-💬 Ask me about my experience with Bloom Insitute of Technology!
+💬  Dark or light mode? 
 
 📫 How to reach me: saeed@skdevelopment.org
 
