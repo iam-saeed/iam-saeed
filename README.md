@@ -1,15 +1,38 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="iam-saeed" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iam-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="iam-saeed" />
+</p>
 
-Hi there 👋
+<h1 align="center">Hey 👋 I'm Saeed Khan</h1>
 
-🔭  I’m currently working at JPMorgan Chase & Co! 
+<h3 align="center">
+Senior Software Engineer • Builder • AI & Hospitality Tech Enthusiast
+</h3>
 
-🌱  I enjoy learning new technolgies and using them to solve complex problems!
+---
 
-🏗️  I love building apps for fun.
+🚀 **Currently building:** AI products, voice agents, and SaaS tools for hospitality & real estate  
 
-💬  Dark or light mode? 
+💼 **By day:** Software Engineer at JPMorgan Chase & Co. building scalable systems in regulated environments  
 
-📫 How to reach me: saeed@skdevelopment.org
+🧠 **Obsessed with:** AI, distributed systems, system design, cloud architecture, and solving hard problems  
 
-⚡ Fun fact: The first computer weighed more than 27 tons!
+🏗️ **Founder mindset:** I build products for fun — from property management platforms to hotel AI agents  
+
+⚡ **Recent work includes:**
+- 🤖 AI-powered hospitality products  
+- 🏨 Voice agents for hotel operations & reservations  
+- 📈 Real estate / hospitality technology platforms  
+- ☁️ Full-stack apps using React, TypeScript, Java, AWS & Kubernetes  
+
+🌱 **Always learning:** LLMs, agentic AI, cloud infrastructure, and emerging tech  
+
+💬 **Question for visitors:** Dark mode or light mode?  
+
+📫 **Reach me:**  
+**Email:** `saeed@skdevelopment.org`
+
+---
+
+> “The best way to predict the future is to build it.”
+
+⚡ **Fun fact:** The first computer weighed over **27 tons**.
