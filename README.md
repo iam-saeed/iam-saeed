@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=iam-saeed
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-saeed&label=Profile%20views&color=0e75b6&style=flat" alt="iam-saeed" /> </p>
 
 Hi there 👋
 
