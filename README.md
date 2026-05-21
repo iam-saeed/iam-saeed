@@ -5,24 +5,16 @@
 <h1 align="center">Hey 👋 I'm Saeed Khan</h1>
 
 <h3 align="center">
-Senior Software Engineer • Builder • AI & Hospitality Tech Enthusiast
+Senior Software Engineer • Builder • AI Tech Enthusiast
 </h3>
 
 ---
 
-🚀 **Currently building:** AI products, voice agents, and SaaS tools for hospitality & real estate  
-
-💼 **By day:** Software Engineer at JPMorganChase. building scalable systems in regulated environments  
+💼 **By day:** Software Engineer at JPMorganChase - building scalable systems in regulated environments  
 
 🧠 **Obsessed with:** AI, distributed systems, system design, cloud architecture, and solving hard problems  
 
-🏗️ **Founder mindset:** I build products for fun — from property management platforms to hotel AI agents  
-
-⚡ **Recent work includes:**
-- 🤖 AI-powered hospitality products  
-- 🏨 Voice agents for hotel operations & reservations  
-- 📈 Real estate / hospitality technology platforms  
-- ☁️ Full-stack apps using React, TypeScript, Java, AWS & Kubernetes  
+🏗️ **Founder mindset:** I build products for fun — from property management platforms to voice agents.
 
 🌱 **Always learning:** LLMs, agentic AI, cloud infrastructure, and emerging tech  
 
