@@ -12,7 +12,7 @@ Senior Software Engineer • Builder • AI & Hospitality Tech Enthusiast
 
 🚀 **Currently building:** AI products, voice agents, and SaaS tools for hospitality & real estate  
 
-💼 **By day:** Software Engineer at JPMorgan Chase & Co. building scalable systems in regulated environments  
+💼 **By day:** Software Engineer at JPMorganChase. building scalable systems in regulated environments  
 
 🧠 **Obsessed with:** AI, distributed systems, system design, cloud architecture, and solving hard problems  
 
